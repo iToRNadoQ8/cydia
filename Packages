@@ -29,3 +29,20 @@ Size: 3690328
 MD5sum: 9d0955cefc32053c3672d777de9ad56f
 SHA1: 0391f6304b757e7154153453199dc82b495209f7
 SHA256: 81cb182e66dfa09ba92e583ee60f461c185ec94bc55a9cbc902aeacbcfbe2114
+
+
+Package: io.github.itornadoq8
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: iToRNadoQ8
+Depends:  firmware (>= 12.2), mobilesubstrate 
+Conflicts: com.unlimapps.uaupdatetools
+Filename: debs/io.github.itornadoq8.Call_of_Duty_Mobile_v1.0.9_iphoneos-arm.deb
+Size: 173806
+MD5sum: cab89250e9a3a156134b832b1005398f
+SHA1: a71db27835a6b3ca97e259d73d54ea0f37764420
+SHA256: 54160f173b36ffff9833ddda9f7932884c3669883f440ffeb955564d167e1bd7
+Section: Games Hacked
+Depiction: https://itornadoq8.github.io/cydia/
+Name: Call of Duty Mobile Mod Menu 1.0.9
+
