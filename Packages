@@ -14,3 +14,18 @@ Depiction: https://itornadoq8.github.io/cydia/
 Name: appstore++
 
 
+Package: com.tigisoftware.appdatamanager
+Name: Apps Manager
+Depends: firmware (>= 7.0)
+Architecture: iphoneos-arm
+Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Maintainer: TIGI Software
+Author: TIGI Software
+Section: Utilities
+Version: 1.4.2-5
+Installed-Size: 8952
+Filename: debs/com.tigisoftware.appdatamanager_1.4.2-5_iphoneos-arm.deb
+Size: 3690328
+MD5sum: 9d0955cefc32053c3672d777de9ad56f
+SHA1: 0391f6304b757e7154153453199dc82b495209f7
+SHA256: 81cb182e66dfa09ba92e583ee60f461c185ec94bc55a9cbc902aeacbcfbe2114
