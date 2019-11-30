@@ -1,0 +1,39 @@
+<package>
+	<id>com.br34kr.codwallhack</id>
+	<name>Call of Duty Mobile Willhack 1.0.9</name>
+	<version>1.0.9</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<descriptionlist>
+		<description>طريقة تفعيل الهاك الذهاب الى الاعدادات ثم الجرافكس دقة الشاشه الاثنتين متوسط</description>
+		<description><![CDATA[
+		Follow me In instagram<br/> 
+		@official.hamood
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>		
+	</screenshots>
+	<links>
+		<link>
+			<name>instagram</name>
+			<url>https://www.instagram.com/official.hamood/</url>
+			<iconclass>fa fa-instagram</iconclass>
+		</link>
+	</links>
+</package>
