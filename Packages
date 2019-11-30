@@ -18,7 +18,7 @@ Package: com.tigisoftware.appdatamanager
 Name: Apps Manager
 Depends: firmware (>= 7.0)
 Architecture: iphoneos-arm
-Description: This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps
+Depiction: https://itornadoq8.github.io/cydia/depictions/?p=com.tigisoftware.appdatamanager
 Maintainer: TIGI Software
 Author: TIGI Software
 Section: Utilities
