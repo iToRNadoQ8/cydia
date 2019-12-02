@@ -66,19 +66,16 @@ SHA256: 52b03388d134bca3da176739ab0600cb996a233def2a0f0f700b4f9942702a0f
 
 Package: com.opa334.safariplus
 Name: Safari Plus
-Depends: firmware (>= 8.0), mobilesubstrate
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
 Depiction: https://itornadoq8.github.io/cydia/depictions/?p=com.opa334.safariplus
 Maintainer: iToRNadoQ8
 Author: iToRNadoQ8
 Section: Tweaks
 Version: 1.7.8-2
-Installed-Size: 4822
+Installed-Size: 1037
 Filename: debs/safariplus_1.7.8-2_iphoneos-arm.deb
 Size: 1061390
 MD5sum: 56785d20305f7b2a90bffc1fb6cd82f0
 SHA1: 1acb7064321d60cde87fd97b1a3d9c1b6feffdc3
 SHA256: FE07E87D6337F153293F10F380EE5A1BA7CB21715D4517C830A6EB8E0F3D5B78
-
-
-
