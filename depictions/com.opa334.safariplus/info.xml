@@ -1,0 +1,40 @@
+<package>
+	<id>com.opa334.safariplus</id>
+	<name>Safari Plus</name>
+	<version>1.7.8-2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11-12</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<descriptionlist>
+		<description>مميزات الاداة</description>
+		<description>تستيطع التحميل من سفاري ملفات او مقاطع فيديو</description>
+		<description><![CDATA[
+		Follow me In instagram<br/> 
+		@official.hamood
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<links>
+		<link>
+			<name>instagram</name>
+			<url>https://www.instagram.com/official.hamood/</url>
+			<iconclass>fa fa-instagram</iconclass>
+		</link>
+	</links>
+</package>
