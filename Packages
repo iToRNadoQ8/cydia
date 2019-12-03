@@ -81,6 +81,23 @@ SHA1: 8a681296892f11ccf4f4c430550a56ccab1c717b
 SHA256: 2f25407f79e5348331aa6fcbe64397541711de3b19b01a64688f0380aa82b1f1
 
 
+Package: com.yourepo.mohadu31
+Name: Untrusted Hosts Blocker
+Depends:  firmware (>= 12.2), mobilesubstrate
+Architecture: iphoneos-arm
+Depiction: https://itornadoq8.github.io/cydia/depictions/?p=com.yourepo.mohadu3
+Maintainer: iToRNadoQ8
+Author: iToRNadoQ8
+Section: Security
+Version: 3.4.0
+Installed-Size: 3342
+Filename: debs/com.yourepo.mohadu31.untrustedhostsblocker_3.4.0_iphoneos-arm.deb
+Size: 342200
+MD5sum: c54a529d6963470751069631faa7abed
+SHA1: 5f35e45545e5baedf26da4e36ad25ff7bdc70547
+SHA256: cef2a8078d2f5beb6b4589dfdcef3768eeb35b1ae49c990bc9a63a9ad5d60427
+
+
 Package: com.opa334.safariplus
 Name: Safari Plus
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
