@@ -85,7 +85,7 @@ Package: com.yourepo.mohadu31
 Name: Untrusted Hosts Blocker
 Depends:  firmware (>= 12.2), mobilesubstrate
 Architecture: iphoneos-arm
-Depiction: https://itornadoq8.github.io/cydia/depictions/?p=com.yourepo.mohadu3
+Depiction: https://itornadoq8.github.io/cydia/depictions/?p=com.yourepo.mohadu31
 Maintainer: iToRNadoQ8
 Author: iToRNadoQ8
 Section: Security
