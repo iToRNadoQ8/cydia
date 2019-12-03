@@ -64,11 +64,11 @@ SHA1: e9ec4c985dc9ec5b0bb8f604b983c5780bf07e98
 SHA256: 52b03388d134bca3da176739ab0600cb996a233def2a0f0f700b4f9942702a0f
 
 
-Package: com.yourepo.mohadu31
+Package: com.yourepo.mohadu31:iphoneos-arm
 Name: Hosts Cleaner
-Depends: firmware (>= 7.0)
+Depends:  firmware (>= 12.2), mobilesubstrate
 Architecture: iphoneos-arm
-Depiction: https://itornadoq8.github.io/cydia/depictions/?p=
+Depiction: https://itornadoq8.github.io/cydia/depictions/?p=com.yourepo.mohadu31
 Maintainer: iToRNadoQ8
 Author: iToRNadoQ8
 Section: Security
