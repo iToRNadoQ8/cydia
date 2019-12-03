@@ -11,7 +11,7 @@ SHA1: 056678da97b18a9d880a332c90dcf12c5c0ef674
 SHA256: 3742beed0cab8114ac1e7c4d5c81fa30c467edd29df710204f9e3d8923b059e2
 Section: Tweaks
 Depiction: https://itornadoq8.github.io/cydia/depictions/?p=com.cokepokes.appstoreplusplus
-Name: appstore++
+Name: Appstore++
 
 
 Package: com.tigisoftware.appdatamanager
@@ -64,6 +64,23 @@ SHA1: e9ec4c985dc9ec5b0bb8f604b983c5780bf07e98
 SHA256: 52b03388d134bca3da176739ab0600cb996a233def2a0f0f700b4f9942702a0f
 
 
+Package: com.yourepo.mohadu31
+Name: Hosts Cleaner
+Depends: firmware (>= 7.0)
+Architecture: iphoneos-arm
+Depiction: https://itornadoq8.github.io/cydia/depictions/?p=
+Maintainer: iToRNadoQ8
+Author: iToRNadoQ8
+Section: Security
+Version: 1.0.2
+Installed-Size: 1025
+Filename: debs/com.yourepo.mohadu31.hostscleaner_1.0.2_iphoneos-arm.deb
+Size: 1328
+MD5sum: 14f8d1b3aa3a8d2316aefab35ac4e416
+SHA1: 8a681296892f11ccf4f4c430550a56ccab1c717b
+SHA256: 2f25407f79e5348331aa6fcbe64397541711de3b19b01a64688f0380aa82b1f1
+
+
 Package: com.opa334.safariplus
 Name: Safari Plus
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
@@ -78,4 +95,4 @@ Filename: debs/safariplus_1.7.8-2_iphoneos-arm.deb
 Size: 1061390
 MD5sum: 56785d20305f7b2a90bffc1fb6cd82f0
 SHA1: 1acb7064321d60cde87fd97b1a3d9c1b6feffdc3
-SHA256: FE07E87D6337F153293F10F380EE5A1BA7CB21715D4517C830A6EB8E0F3D5B78
+SHA256: fe07e87d6337f153293f10f380ee5a1ba7cb21715d4517c830a6eb8e0f3d5b78
