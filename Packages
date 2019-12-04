@@ -64,34 +64,36 @@ SHA1: e9ec4c985dc9ec5b0bb8f604b983c5780bf07e98
 SHA256: 52b03388d134bca3da176739ab0600cb996a233def2a0f0f700b4f9942702a0f
 
 
-Package: com.yourepo.mohadu31
+Package: io.github.itornadoq8.hostscleaner
 Name: Hosts Cleaner
 Depends:  firmware (>= 12.2), mobilesubstrate
 Architecture: iphoneos-arm
-Depiction: https://itornadoq8.github.io/cydia/depictions/?p=com.yourepo.mohadu31
+Depiction: https://itornadoq8.github.io/cydia/depictions/?p=io.github.itornadoq8.hostscleaner
 Maintainer: iToRNadoQ8
 Author: iToRNadoQ8
 Section: Security
-Version: 1.0.2
+Version: 1.0.3
+Conflicts: org.com.yourepo.mohadu31
 Installed-Size: 1025
-Filename: debs/com.yourepo.mohadu31.hostscleaner_1.0.2_iphoneos-arm.deb
+Filename: debs/io.github.itornadoq8.hostscleaner_1.0.2_iphoneos-arm.deb
 Size: 1328
 MD5sum: 14f8d1b3aa3a8d2316aefab35ac4e416
 SHA1: 8a681296892f11ccf4f4c430550a56ccab1c717b
 SHA256: 2f25407f79e5348331aa6fcbe64397541711de3b19b01a64688f0380aa82b1f1
 
 
-Package: com.yourepo.mohadu31
+Package: io.github.itornadoq8.untrustedhostsblocker
 Name: Untrusted Hosts Blocker
 Depends:  firmware (>= 12.2), mobilesubstrate
 Architecture: iphoneos-arm
-Depiction: https://itornadoq8.github.io/cydia/depictions/?p=com.yourepo.mohadu31
+Depiction: https://itornadoq8.github.io/cydia/depictions/?p=io.github.itornadoq8.untrustedhostsblocker
 Maintainer: iToRNadoQ8
 Author: iToRNadoQ8
 Section: Security
 Version: 3.4.0
+Conflicts: org.com.yourepo.mohadu31
 Installed-Size: 3342
-Filename: debs/com.yourepo.mohadu31.untrustedhostsblocker_3.4.0_iphoneos-arm.deb
+Filename: debs/io.github.itornadoq8.untrustedhostsblocker_3.4.0_iphoneos-arm.deb
 Size: 342200
 MD5sum: c54a529d6963470751069631faa7abed
 SHA1: 5f35e45545e5baedf26da4e36ad25ff7bdc70547
