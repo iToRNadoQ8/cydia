@@ -113,3 +113,21 @@ Size: 1061390
 MD5sum: 56785d20305f7b2a90bffc1fb6cd82f0
 SHA1: 1acb7064321d60cde87fd97b1a3d9c1b6feffdc3
 SHA256: fe07e87d6337f153293f10f380ee5a1ba7cb21715d4517c830a6eb8e0f3d5b78
+
+
+Package: io.github.itornadoq8.locationfaker10
+Name: LocationFaker IOS 11,12
+Depends: firmware, mobilesubstrate
+Architecture: iphoneos-arm
+Depiction: https://itornadoq8.github.io/cydia/depictions/?p=io.github.itornadoq8.locationfaker10
+Maintainer: iToRNadoQ8
+Author: iToRNadoQ8
+Section: Tweaks
+Version: 2.3
+Conflicts: org.thebigboss.locationchangerx, com.repo.xarold.com.locationchangerx
+Installed-Size: 449
+Filename: debs/io.github.tiroandoq8.locationfaker10_2.2_iphoneos-arm.deb
+Size: 450224
+MD5sum: 4550c9e08bd8bb5c9e2e1723331b9109
+SHA1: 3ceabaebe09b7ed26982fa11cfcd57c78e29e8aa
+SHA256: 90ab3131789717283685754f83659c961d350996f841787969a3e87a19f0bdab
